@@ -1,14 +1,14 @@
-class school:
+class college:
     def show(self):
         print('this is very good school')
 
 
-class child1(school):
+class child1(college):
     def display(self):
         print('this is very good school')
 
 
-class child2(school):
+class child2(college):
     def printdetails(self):
         print('this is very good college')
 
